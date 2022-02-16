@@ -1,3 +1,6 @@
+ini adalah aplikasi todo-app sesuai dengan video tutorial dari akun youtube Traversy Media.
+
+aplikasi ini di buat dengan framwork React, react-router v-6, server json dari json server untuk menyimpan data todo yang telah di tambahkan pada aplikasi ini
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
